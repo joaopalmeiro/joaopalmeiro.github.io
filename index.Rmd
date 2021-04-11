@@ -1,0 +1,17 @@
+---
+title: "João Palmeiro"
+image: "joao.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/joaopalmeiro/"
+  - label: Twitter
+    url: "https://twitter.com/joaompalmeiro"
+  - label: GitHub
+    url: "https://github.com/joaopalmeiro"
+  - label: Email
+    url: "mailto:jm.palmeiro@campus.fct.unl.pt"
+output:
+  postcards::jolla
+---
+ 
+TODO
