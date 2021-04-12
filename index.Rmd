@@ -12,6 +12,20 @@ links:
     url: "mailto:jm.palmeiro@campus.fct.unl.pt"
 output:
   postcards::jolla
+favicon: favicon.svg
 ---
 
-TODO
+```{css, echo=FALSE}
+@font-face {
+  font-family: 'Inter';
+  font-style:  normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("fonts/Inter-Regular.woff2?v=3.18") format("woff2"),
+       url("fonts/Inter-Regular.woff?v=3.18") format("woff");
+}
+
+* { font-family: 'Inter'; }
+```
+
+`r emo::ji("bar_chart")` Data Visualization Engineer @[Feedzai](https://feedzai.com/)
