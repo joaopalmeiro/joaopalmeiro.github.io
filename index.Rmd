@@ -8,14 +8,23 @@ links:
     url: "https://twitter.com/joaompalmeiro"
   - label: GitHub
     url: "https://github.com/joaopalmeiro"
+  - label: Behance
+    url: "https://www.behance.net/joaopalmeiro"
   - label: Email
     url: "mailto:jm.palmeiro@campus.fct.unl.pt"
-output:
-  postcards::jolla
+output: postcards::jolla
 favicon: favicon.svg
 ---
 
-```{css, echo=FALSE}
+```{r setup, include=FALSE}
+renv::use(
+  "styler",
+  "hadley/emo",
+  "postcards@0.2.2"
+)
+```
+
+```{css echo=FALSE}
 @font-face {
   font-family: 'Inter';
   font-style:  normal;
