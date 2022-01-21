@@ -17,6 +17,7 @@
 - [Master's thesis](http://hdl.handle.net/10362/119698)
 - [PyPI](https://pypi.org/user/joaopalmeiro/)
 - [npm](https://www.npmjs.com/~joaopalmeiro)
+- [Mastodon/Masto.pt](https://masto.pt/@joaopalmeiro)
 
 ## Development
 
