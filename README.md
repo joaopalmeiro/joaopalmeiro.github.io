@@ -9,15 +9,18 @@
 
 ## Profiles/Pages
 
-- [Medium](https://joaompalmeiro.medium.com/)
-- [DEV](https://dev.to/joaompalmeiro)
-- [Writings](https://joaopalmeirowritings.vercel.app/)
 - [Behance](https://www.behance.net/joaopalmeiro)
+- [DEV](https://dev.to/joaompalmeiro)
+- [Dribbble](https://dribbble.com/joaopalmeiro)
+- [GitHub Résumé](https://resume.github.io/?joaopalmeiro)
 - [Goodreads](https://www.goodreads.com/joaopalmeiro)
 - [Master's thesis](http://hdl.handle.net/10362/119698)
-- [PyPI](https://pypi.org/user/joaopalmeiro/)
-- [npm](https://www.npmjs.com/~joaopalmeiro)
 - [Mastodon/Masto.pt](https://masto.pt/@joaopalmeiro)
+- [Medium](https://joaompalmeiro.medium.com/)
+- [npm](https://www.npmjs.com/~joaopalmeiro)
+- [Polywork](https://poly.work/joaopalmeiro)
+- [PyPI](https://pypi.org/user/joaopalmeiro/)
+- [Writings](https://joaopalmeirowritings.vercel.app/)
 
 ## Development
 
